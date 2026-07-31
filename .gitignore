@@ -1,0 +1,57 @@
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+conda/
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Model weights (too large for GitHub) ─────────────────────────────────────
+models/
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# ── Test images and results ───────────────────────────────────────────────────
+test_images/
+test_results/
+test_old/
+
+# ── macOS junk ────────────────────────────────────────────────────────────────
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── Hidden/temp files (the dot-prefixed ones in your directory) ───────────────
+._models
+._pipeline
+._requirements.txt
+._test_images
+._test_results
+._venv
+
+# ── Zip / archives ────────────────────────────────────────────────────────────
+*.zip
+*.tar.gz
+*.rar
+
+# ── PDF (assignment brief) ────────────────────────────────────────────────────
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+old.ipynb
+*.log
+*.tmp

@@ -1,0 +1,10 @@
+ultralytics
+onnxruntime
+paddleocr
+paddlepaddle
+opencv-python
+numpy
+Pillow
+PyYAML
+torch
+torchvision
