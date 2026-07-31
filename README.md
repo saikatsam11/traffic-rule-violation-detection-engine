@@ -92,7 +92,9 @@ pip install -r requirements.txt
 ### 2. Download pretrained models
 
 > Models are not committed to this repo due to file size (~126 MB total).  
-> Download the `models/` folder and place it at the project root before running.
+> Download the `models/` folder from the link below and place it at the project root before running.
+
+**[⬇️ Download Models (~126 MB)](https://iiitbac-my.sharepoint.com/:f:/g/personal/saikat_pal_iiitb_ac_in/IgBW2uu5ggJmQJnLYj9MvoDrAbFdMUoFYPaoK0Ku4YOIim0?e=r0wWev)**
 
 ```
 models/
